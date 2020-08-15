@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="[ZM-武器属性]ZMWeaponsLevel">
+    <output-path>E:/1.[我的世界]Minecraft/[正式服务器]Spigot-1.12.2/plugins</output-path>
+    <root id="archive" name="[ZM-武器属性]ZMWeaponsLevel.jar">
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+      <element id="module-output" name="ZMWeaponsLevel" />
+    </root>
+  </artifact>
+</component>

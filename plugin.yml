@@ -1,0 +1,5 @@
+version: 0.0.8
+main: com.mzimu.rpg.ZMWeaponsLevelMain
+name: ZMWeaponsLevelMain
+commands:
+  zmwl:
